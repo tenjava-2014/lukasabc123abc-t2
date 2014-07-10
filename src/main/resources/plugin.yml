@@ -1,0 +1,3 @@
+name: lukasabc123abc-t2
+main: com.tenjava.entries.lukasabc123abc.t2.TenJava
+version: '${project.version}'
